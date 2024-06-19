@@ -16,6 +16,7 @@ Hey there, I'm Finn! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 
 I'm a Data-Scientist in Business and Research.
 
+* 🇩🇪 Living in Hamburg, Germany.
 * 🛫 Working as Data-Scientist at Hamburg Airport.
 * 🎓 Study M.Sc. Data Science at Hamburg University of Applied Science.
 
