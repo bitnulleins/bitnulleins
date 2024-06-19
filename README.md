@@ -4,8 +4,8 @@
 <br />
 <div align="center">
   <a href="https://www.linkedin.com/in/finn-dohrn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bitnulleins" />
-  <img src="https://img.shields.io/github/stars/bitnulleins" />
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=bitnulleins" /></a>
+  <a href="#"><img src="https://img.shields.io/github/stars/bitnulleins" /></a>
 </div>
 
 <h1 align="center">
@@ -24,5 +24,5 @@ I'm a Data-Scientist in Business and Research.
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" /> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="48" /> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="48" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="48" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="48" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="48" /> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="48" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="48"> <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="48" />
 
 <div align="right">
-<img src="https://raw.githubusercontent.com/bitnulleins/bitnulleins/main/ProjectsBelow.svg" width="200" />
+<a href="https://github.com/bitnulleins#user-59482102-pinned-items-reorder-form"><img src="https://raw.githubusercontent.com/bitnulleins/bitnulleins/main/ProjectsBelow.svg" width="200" /></a>
 </div>
