@@ -3,8 +3,8 @@
 </div>
 <br />
 <div align="center">
-  <a href="https://www.linkedin.com/in/finn-dohrn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=bitnulleins" /></a>
+  <a href="https://www.linkedin.com/in/finn-dohrn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6699cc?logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=bitnulleins&color=6699cc" /></a>
   <a href="#"><img src="https://img.shields.io/github/stars/bitnulleins" /></a>
 </div>
 
@@ -16,7 +16,7 @@ Hey there, I'm Finn! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 
 I'm a Data-Scientist in Business and Research.
 
-* 🇩🇪 Living in Hamburg, Germany.
+* ⚓️ Living in Hamburg, Northern Germany.
 * 🛫 Working as Data-Scientist at Hamburg Airport.
 * 🎓 Study M.Sc. Data Science at Hamburg University of Applied Science.
 
