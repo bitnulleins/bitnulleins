@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img width="128" src="https://api.dicebear.com/9.x/micah/svg?seed=Tiger&baseColor=edb98a&earringColor[]&earrings[]&ears=attached&eyeShadowColor[]&eyebrows=up&eyes=eyes&facialHair=scruff&facialHairProbability=100&facialHairColor=c18f49&glasses=square&glassesProbability=100&hair=fonze,turban&hairColor=c18f49&mouth=smile&nose=pointed&shirt=collared&glassesColor=d3d3d3&shirtColor=6699CC" />
+  <img width="128" src="https://api.dicebear.com/9.x/pixel-art/svg?seed=0&accessories[]&accessoriesColor[]&beard[]&beardProbability=100&clothing=variant06&clothingColor=6699CC&eyes=variant03&eyesColor=070740&glasses=light05&glassesColor=d3d3d3&glassesProbability=100&hair=short10&hairColor=c18f49&hat[]&hatColor[]&mouth=happy02&skinColor=edb98a" />
 </div>
 <br />
 <div align="center">
