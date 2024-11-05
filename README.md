@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img width="128" src="https://api.dicebear.com/9.x/pixel-art/svg?seed=0&accessories[]&accessoriesColor[]&beard[]&beardProbability=100&clothing=variant06&clothingColor=6699CC&eyes=variant03&eyesColor=070740&glasses=light05&glassesColor=d3d3d3&glassesProbability=100&hair=short10&hairColor=c18f49&hat[]&hatColor[]&mouth=happy02&skinColor=edb98a" />
+  <img width="200" src="https://raw.githubusercontent.com/bitnulleins/bitnulleins/refs/heads/main/avatar.svg" />
 </div>
 <br />
 <div align="center">
