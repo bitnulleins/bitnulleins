@@ -19,7 +19,7 @@ I'm a Data-Scientist in Business and Research.
 * ⚓️ Living in Hamburg, Northern Germany.
 * 🛫 Working as Data-Scientist at Hamburg Airport.
 * 🎓 Study M.Sc. Data Science at Hamburg University of Applied Science.
-* <img height="20" align="center" src="https://bitnulleins.de/pub/karate-emote/?color=orange" /> Orange belt in $\text{松涛館}$-Karate.
+* <img height="20" align="center" src="https://bitnulleins.de/pub/karate-emote/?color=ff7f50" /> Orange belt in $\text{松涛館}$-Karate.
 
 ### :hammer_and_wrench: Languages and Tools
 
