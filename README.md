@@ -18,7 +18,7 @@ I'm a Data-Scientist in Business and Research.
 
 * ⚓️ Living in Hamburg, Northern Germany.
 * 🛫 Working as Data-Scientist at Hamburg Airport.
-* 🎓 Study M.Sc. Data Science at Hamburg University of Applied Science.
+* 🎓 M.Sc. in Computer Science with focus on Data Science.
 * <img height="19" align="center" src="https://keikogi.bitnulleins.de/?belt=ff7f51&uniform=ffffff&style=auto" /> Orange belt in $\text{松涛館}$-Karate.
 
 ### :hammer_and_wrench: Languages and Tools
