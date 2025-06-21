@@ -17,7 +17,6 @@ Hey there, I'm Finn! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 I'm a Data-Scientist in Business and Research.
 
 * ⚓️ Living in Hamburg, Northern Germany.
-* 🛫 Working as Data-Scientist at Hamburg Airport.
 * 🎓 M.Sc. in Computer Science with focus on Data Science.
 * <img height="19" align="center" src="https://keikogi.bitnulleins.de/?belt=ff7f51&uniform=ffffff&style=auto" /> Orange belt in $\text{松涛館}$-Karate.
 
