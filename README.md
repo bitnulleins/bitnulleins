@@ -18,7 +18,7 @@ I'm a Data-Scientist in Business and Research.
 
 * ⚓️ Living in Hamburg, Northern Germany.
 * 🎓 M.Sc. in Computer Science with focus on Data Science.
-*  <a href="https://keikogi.bitnulleins.de" target="_blank"><img width="19" height="19" align="center" src="https://keikogi.bitnulleins.de/?belt=1e9426&uniform=F0F0F0&style=noto" /></a> Green belt in $\text{松涛館}$-Karate.
+*  <a href="https://keikogi.bitnulleins.de" target="_blank"><img width="19" height="19" align="center" src="https://keikogi.bitnulleins.de/?belt=1e9426&uniform=F0F0F0&style=noto" /></a> Green belt in $\text{松涛館}$-Karate.
 
 ### :hammer_and_wrench: Languages and Tools
 
