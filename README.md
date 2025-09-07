@@ -14,7 +14,7 @@ Hey there, I'm Finn! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 
 ### :man_technologist: About Me
 
-I'm a Data-Scientist in Business and Research.
+I'm a Computer Scientist for AI in Business and Research.
 
 * ⚓️ Living in Hamburg, Northern Germany.
 * 🎓 M.Sc. in Computer Science with focus on Data Science.
