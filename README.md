@@ -14,10 +14,10 @@ Hey there, I'm Finn! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 
 ### :man_technologist: About Me
 
-I'm a Computer Scientist for AI in Business and Research.
+I'm a computer scientist for AI in business and research.
 
 * ⚓️ Living in Hamburg, Northern Germany.
-* 🎓 M.Sc. in Computer Science with focus on Data Science.
+* 🎓 M.Sc. in computer science with focus on data science.
 *  <a href="https://keikogi.bitnulleins.de" target="_blank"><img width="19" height="19" align="center" src="https://keikogi.bitnulleins.de/?belt=1e9426&uniform=F0F0F0&style=noto" /></a> Green belt in $\text{松涛館}$-Karate.
 
 ### :hammer_and_wrench: Languages and Tools
